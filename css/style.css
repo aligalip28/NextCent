@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+
+.btn-green{
+    outline: none;
+    background-color: #4CAF4F;
+    color: white;
+}
+
+.slider-container{
+    padding-top: 13vh;
+    padding-bottom: 13vh;
+}
+
+.clients{
+    margin-top: 48px;
+    height: auto; 
+}
+.carousel-indicators .active {
+    background: #4CAF4F !important;
+}
+
+#carouselExampleCaptions .carousel-indicators button {
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   border: 2px solid white;
+   background: transparent;
+}
+.community{
+    height: auto;
+    margin-top: 7vw;
+}
+.card{
+    height: auto;
+    width: 21rem;
+}
+
+.rafiki{
+    margin-top: 50px;
+}
+
+.helping{
+ height: auto;
+ margin-top: 50px;
+ background-color: #F5F7FA;
+}
+
+.text-green{
+    color: #4CAF4F;
+}
+
+.pana{
+    margin-top: 50px;
+}
+
+.tesla{
+    margin-top: 50px;
+    background-color: #F5F7FA;
+}
+
+.caring{
+    margin-top: 50px;
+   
+}
+
+.card-caring{
+    margin-top: -100px;
+    margin-left: 3rem;
+    width: 70%;
+    
+}
+
+.pellentesque{
+    margin-top: 50px;
+    background-color: #F5F7FA;
+}
+.pellentesque-text{
+    font-size: 40px;
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    margin-top: 50px;
+}
+.footer-container{
+    background-color: #263238;
+}
+.footer-container .btn-gray{
+    color: white;
+   background-color:#344148;
+}
+
+
+.search{
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+      
+    }
+    .search .fa-paper-plane{
+        position: absolute;
+        top: 10px;
+        left: 160px;
+
+       }
+
